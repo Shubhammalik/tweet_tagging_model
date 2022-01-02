@@ -1,0 +1,34 @@
+version: 1
+disable_existing_loggers: true
+formatters:
+  rootFormatter:
+    format: '%(asctime)s :: %(levelname)s :: MODULE %(module)s :: %(name)s :: Line No %(lineno)s :: %(message)s'
+  loggerFormatter:
+    format: '[%(asctime)s] :: %(levelname)8s @ %(filename)s:%(lineno)s :: %(name)s :: %(message)s'
+    datefmt: '%Y-%m-%d %H:%M:%S'
+handlers:
+  consoleHandler:
+    class: logging.StreamHandler
+    level: WARNING
+    formatter: loggerFormatter
+    stream: ext://sys.stdout
+  fileHandler:
+    class: logging.FileHandler
+    level: ERROR
+    formatter: loggerFormatter
+    filename: logs/logs_from_yaml.log
+loggers:
+  fileLogger:
+    level: DEBUG
+    handlers: [consoleHandler, fileHandler]
+    propagate: no
+  streamLogger:
+    level: DEBUG
+    handlers: [consoleHandler]
+    propagate: no
+  __main__:
+    level: INFO
+root:
+  level: DEBUG
+  handlers: [consoleHandler]
+  formatter: rootFormatter
