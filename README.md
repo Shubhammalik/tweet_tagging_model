@@ -39,31 +39,31 @@ TBU
        
 # Illustration from Data
 **Data Stats**
-![Data Distribution](/Users/shubham/PythonProjects/twitter_online_learning_sentiment/static/eda/data_visuals.png)
+![Data Distribution](https://github.com/Shubhammalik/tweet_tagging_model/blob/main/static/eda/data_visuals.png)
 
 **Positive Word Cloud**
-![Positive](/Users/shubham/PythonProjects/twitter_online_learning_sentiment/static/wc/300000/positive_wc_300000.png)
+![Positive](https://github.com/Shubhammalik/tweet_tagging_model/blob/main/static/wc/300000/positive_wc_300000.png)
 
 **Negative Word Cloud**
-![Negative](/Users/shubham/PythonProjects/twitter_online_learning_sentiment/static/wc/300000/negative_wc_300000.png)
+![Negative](https://github.com/Shubhammalik/tweet_tagging_model/blob/main/static/wc/300000/negative_wc_300000.png)
 
 # MODEL EVALUATION
 **Beroulli NB Model**
-![Beroulli NB Model](/Users/shubham/PythonProjects/twitter_online_learning_sentiment/static/model_eval/300000/bernoulli_nb_cf_300000.png)
-![Beroulli NB Model](/Users/shubham/PythonProjects/twitter_online_learning_sentiment/static/model_eval/300000/bernoulli_nb_roc_300000.png)
+![Beroulli NB Model](https://github.com/Shubhammalik/tweet_tagging_model/blob/main/static/model_eval/300000/bernoulli_nb_cf_300000.png)
+![Beroulli NB Model](https://github.com/Shubhammalik/tweet_tagging_model/blob/main/static/model_eval/300000/bernoulli_nb_roc_300000.png)
 
 **Linear Model**
-![Linear Model](/Users/shubham/PythonProjects/twitter_online_learning_sentiment/static/model_eval/300000/linear_svc_cf_300000.png)
-![Linear Model](/Users/shubham/PythonProjects/twitter_online_learning_sentiment/static/model_eval/300000/linear_svc_roc_300000.png)
+![Linear Model](https://github.com/Shubhammalik/tweet_tagging_model/blob/main/static/model_eval/300000/linear_svc_cf_300000.png)
+![Linear Model](https://github.com/Shubhammalik/tweet_tagging_model/blob/main/static/model_eval/300000/linear_svc_roc_300000.png)
 
 **Logistic Regression Model**
-![Logistic Regression Model](/Users/shubham/PythonProjects/twitter_online_learning_sentiment/static/model_eval/300000/lr_cf_300000.png)
-![Logistic Regression Model](/Users/shubham/PythonProjects/twitter_online_learning_sentiment/static/model_eval/300000/lr_roc_300000.png)
+![Logistic Regression Model](https://github.com/Shubhammalik/tweet_tagging_model/blob/main/static/model_eval/300000/lr_cf_300000.png)
+![Logistic Regression Model](https://github.com/Shubhammalik/tweet_tagging_model/blob/main/static/model_eval/300000/lr_roc_300000.png)
 
 **Mutlinomial NB Model**
-![Mutlinomial NB Model](/Users/shubham/PythonProjects/twitter_online_learning_sentiment/static/model_eval/300000/multinomial_nb_cf_300000.png)
-![Mutlinomial NB Model](/Users/shubham/PythonProjects/twitter_online_learning_sentiment/static/model_eval/300000/multinomial_nb_roc_300000.png)
+![Mutlinomial NB Model](https://github.com/Shubhammalik/tweet_tagging_model/blob/main/static/model_eval/300000/multinomial_nb_cf_300000.png)
+![Mutlinomial NB Model](https://github.com/Shubhammalik/tweet_tagging_model/blob/main/static/model_eval/300000/multinomial_nb_roc_300000.png)
 
 **XGBoost Model**
-![XGBoost Model](/Users/shubham/PythonProjects/twitter_online_learning_sentiment/static/model_eval/300000/xgboost_cf_300000.png)
-![XGBoost Model](/Users/shubham/PythonProjects/twitter_online_learning_sentiment/static/model_eval/300000/xgboost_roc_300000.png)
+![XGBoost Model](https://github.com/Shubhammalik/tweet_tagging_model/blob/main/static/model_eval/300000/xgboost_cf_300000.png)
+![XGBoost Model](https://github.com/Shubhammalik/tweet_tagging_model/blob/main/static/model_eval/300000/xgboost_roc_300000.png)
