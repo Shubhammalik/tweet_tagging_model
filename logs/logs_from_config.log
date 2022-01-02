@@ -1,0 +1,72 @@
+[2021-11-18 15:11:06] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 15:11:06] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 15:15:44] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 15:15:44] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 15:20:19] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 15:20:19] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 15:20:36] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 15:20:36] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 15:20:58] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 15:20:58] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 15:21:37] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 15:21:37] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 15:25:57] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 15:25:57] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 15:27:06] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 15:27:06] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 16:00:31] ::    ERROR @ config_logging.py:14 :: fileLogger :: A Major error has happened.
+[2021-11-18 16:00:31] :: CRITICAL @ config_logging.py:15 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 16:03:02] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 16:03:02] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 17:02:12] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 17:02:12] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 17:24:41] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 17:24:41] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 17:26:09] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 17:26:09] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 17:26:43] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 17:26:43] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 17:26:50] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 17:26:50] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 17:27:12] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 17:27:12] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 17:28:42] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 17:28:42] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-25 15:05:20] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-25 15:05:20] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-25 15:08:13] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-25 15:08:13] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-25 15:09:10] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-25 15:09:10] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-25 15:14:54] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-25 15:14:54] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-25 15:15:36] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-25 15:15:36] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-25 15:16:13] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-25 15:16:13] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-25 15:16:27] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-25 15:16:27] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+

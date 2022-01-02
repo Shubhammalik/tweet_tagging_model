@@ -1,0 +1,8 @@
+[2021-11-18 16:00:12] ::  WARNING @ function_logging.py:40 :: __main__ :: Something is not right.
+[2021-11-18 16:00:12] ::    ERROR @ function_logging.py:41 :: __main__ :: A Major error has happened.
+[2021-11-18 16:00:12] :: CRITICAL @ function_logging.py:42 :: __main__ :: This is a critical logging message
+
+[2021-11-18 17:38:39] ::  WARNING @ function_logging.py:40 :: __main__ :: Something is not right.
+[2021-11-18 17:38:39] ::    ERROR @ function_logging.py:41 :: __main__ :: A Major error has happened.
+[2021-11-18 17:38:39] :: CRITICAL @ function_logging.py:42 :: __main__ :: This is a critical logging message
+

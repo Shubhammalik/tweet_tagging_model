@@ -1,0 +1,268 @@
+[2021-11-17 16:30:12] ::  WARNING @ test2.py:76 :: Something is not right.
+[2021-11-17 16:30:12] ::    ERROR @ test2.py:77 :: A Major error has happened.
+[2021-11-17 16:30:12] :: CRITICAL @ test2.py:78 :: This is a critical logging message
+
+[2021-11-17 16:32:40] ::  WARNING @ test2.py:77 :: Something is not right.
+[2021-11-17 16:32:40] ::    ERROR @ test2.py:78 :: A Major error has happened.
+[2021-11-17 16:32:40] :: CRITICAL @ test2.py:79 :: This is a critical logging message
+
+[2021-11-17 16:33:08] ::  WARNING @ test2.py:77 :: Something is not right.
+[2021-11-17 16:33:08] ::    ERROR @ test2.py:78 :: A Major error has happened.
+[2021-11-17 16:33:08] :: CRITICAL @ test2.py:79 :: This is a critical logging message
+
+[2021-11-17 16:34:26] ::  WARNING @ test2.py:78 :: Something is not right.
+[2021-11-17 16:34:26] ::    ERROR @ test2.py:79 :: A Major error has happened.
+[2021-11-17 16:34:26] :: CRITICAL @ test2.py:80 :: This is a critical logging message
+
+[2021-11-17 16:35:18] ::  WARNING @ test2.py:78 :: Something is not right.
+[2021-11-17 16:35:18] ::    ERROR @ test2.py:79 :: A Major error has happened.
+[2021-11-17 16:35:18] :: CRITICAL @ test2.py:80 :: This is a critical logging message
+
+[2021-11-17 16:36:29] ::  WARNING @ test2.py:79 :: Something is not right.
+[2021-11-17 16:36:29] ::    ERROR @ test2.py:80 :: A Major error has happened.
+[2021-11-17 16:36:29] :: CRITICAL @ test2.py:81 :: This is a critical logging message
+
+[2021-11-17 16:37:23] ::  WARNING @ test2.py:80 :: Something is not right.
+[2021-11-17 16:37:23] ::    ERROR @ test2.py:81 :: A Major error has happened.
+[2021-11-17 16:37:23] :: CRITICAL @ test2.py:82 :: This is a critical logging message
+
+[2021-11-17 16:37:46] ::  WARNING @ test2.py:80 :: Something is not right.
+[2021-11-17 16:37:46] ::    ERROR @ test2.py:81 :: A Major error has happened.
+[2021-11-17 16:37:46] :: CRITICAL @ test2.py:82 :: This is a critical logging message
+
+[2021-11-17 16:41:08] ::  WARNING @ test2.py:80 :: Something is not right.
+[2021-11-17 16:41:08] ::    ERROR @ test2.py:81 :: A Major error has happened.
+[2021-11-17 16:41:08] :: CRITICAL @ test2.py:82 :: This is a critical logging message
+
+[2021-11-17 16:41:40] ::  WARNING @ test2.py:81 :: Something is not right.
+[2021-11-17 16:41:40] ::    ERROR @ test2.py:82 :: A Major error has happened.
+[2021-11-17 16:41:40] :: CRITICAL @ test2.py:83 :: This is a critical logging message
+
+[2021-11-17 16:42:03] ::  WARNING @ test2.py:81 :: Something is not right.
+[2021-11-17 16:42:03] ::    ERROR @ test2.py:82 :: A Major error has happened.
+[2021-11-17 16:42:03] :: CRITICAL @ test2.py:83 :: This is a critical logging message
+
+[2021-11-17 16:42:11] ::  WARNING @ test2.py:82 :: Something is not right.
+[2021-11-17 16:42:11] ::    ERROR @ test2.py:83 :: A Major error has happened.
+[2021-11-17 16:42:11] :: CRITICAL @ test2.py:84 :: This is a critical logging message
+
+[2021-11-17 16:43:15] ::  WARNING @ test2.py:82 :: Something is not right.
+[2021-11-17 16:43:15] ::    ERROR @ test2.py:83 :: A Major error has happened.
+[2021-11-17 16:43:15] :: CRITICAL @ test2.py:84 :: This is a critical logging message
+
+[2021-11-17 16:45:40] ::  WARNING @ test2.py:83 :: Something is not right.
+[2021-11-17 16:45:40] ::    ERROR @ test2.py:84 :: A Major error has happened.
+[2021-11-17 16:45:40] :: CRITICAL @ test2.py:85 :: This is a critical logging message
+
+[2021-11-17 16:46:17] ::  WARNING @ test2.py:85 :: Something is not right.
+[2021-11-17 16:46:17] ::    ERROR @ test2.py:86 :: A Major error has happened.
+[2021-11-17 16:46:17] :: CRITICAL @ test2.py:87 :: This is a critical logging message
+
+[2021-11-17 16:46:39] ::  WARNING @ test2.py:83 :: Something is not right.
+[2021-11-17 16:46:39] ::    ERROR @ test2.py:84 :: A Major error has happened.
+[2021-11-17 16:46:39] :: CRITICAL @ test2.py:85 :: This is a critical logging message
+
+[2021-11-17 16:50:52] ::  WARNING @ logging_con.py:94 :: Something is not right.
+[2021-11-17 16:50:52] ::    ERROR @ logging_con.py:95 :: A Major error has happened.
+[2021-11-17 16:50:52] :: CRITICAL @ logging_con.py:96 :: This is a critical logging message
+
+[2021-11-17 16:51:03] ::  WARNING @ logging_con.py:94 :: Something is not right.
+[2021-11-17 16:51:03] ::    ERROR @ logging_con.py:95 :: A Major error has happened.
+[2021-11-17 16:51:03] :: CRITICAL @ logging_con.py:96 :: This is a critical logging message
+
+[2021-11-17 16:51:17] ::  WARNING @ logging_con.py:94 :: Something is not right.
+[2021-11-17 16:51:17] ::    ERROR @ logging_con.py:95 :: A Major error has happened.
+[2021-11-17 16:51:17] :: CRITICAL @ logging_con.py:96 :: This is a critical logging message
+
+[2021-11-17 16:51:41] ::  WARNING @ logging_con.py:94 :: Something is not right.
+[2021-11-17 16:51:41] ::    ERROR @ logging_con.py:95 :: A Major error has happened.
+[2021-11-17 16:51:41] :: CRITICAL @ logging_con.py:96 :: This is a critical logging message
+
+[2021-11-17 16:53:21] ::  WARNING @ logging_con.py:94 :: Something is not right.
+[2021-11-17 16:53:21] ::    ERROR @ logging_con.py:95 :: A Major error has happened.
+[2021-11-17 16:53:21] :: CRITICAL @ logging_con.py:96 :: This is a critical logging message
+
+[2021-11-17 16:54:07] ::  WARNING @ logging_con.py:94 :: Something is not right.
+[2021-11-17 16:54:07] ::    ERROR @ logging_con.py:95 :: A Major error has happened.
+[2021-11-17 16:54:07] :: CRITICAL @ logging_con.py:96 :: This is a critical logging message
+
+[2021-11-17 16:54:45] ::  WARNING @ logging_con.py:94 :: __main__ :: Something is not right.
+[2021-11-17 16:54:45] ::    ERROR @ logging_con.py:95 :: __main__ :: A Major error has happened.
+[2021-11-17 16:54:45] :: CRITICAL @ logging_con.py:96 :: __main__ :: This is a critical logging message
+
+[2021-11-17 16:54:47] ::  WARNING @ logging_con.py:94 :: __main__ :: Something is not right.
+[2021-11-17 16:54:47] ::    ERROR @ logging_con.py:95 :: __main__ :: A Major error has happened.
+[2021-11-17 16:54:47] :: CRITICAL @ logging_con.py:96 :: __main__ :: This is a critical logging message
+
+[2021-11-17 16:57:56] ::  WARNING @ logging_con.py:98 :: __main__ :: Something is not right.
+[2021-11-17 16:57:56] ::    ERROR @ logging_con.py:99 :: __main__ :: A Major error has happened.
+[2021-11-17 16:57:56] :: CRITICAL @ logging_con.py:100 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:05:40] ::  WARNING @ logging_con.py:99 :: __main__ :: Something is not right.
+[2021-11-17 17:05:40] ::    ERROR @ logging_con.py:100 :: __main__ :: A Major error has happened.
+[2021-11-17 17:05:40] :: CRITICAL @ logging_con.py:101 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:06:02] ::  WARNING @ logging_con.py:99 :: __main__ :: Something is not right.
+[2021-11-17 17:06:02] ::    ERROR @ logging_con.py:100 :: __main__ :: A Major error has happened.
+[2021-11-17 17:06:02] :: CRITICAL @ logging_con.py:101 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:06:48] ::  WARNING @ logging_con.py:99 :: __main__ :: Something is not right.
+[2021-11-17 17:06:48] ::    ERROR @ logging_con.py:100 :: __main__ :: A Major error has happened.
+[2021-11-17 17:06:48] :: CRITICAL @ logging_con.py:101 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:07:03] ::  WARNING @ logging_con.py:99 :: __main__ :: Something is not right.
+[2021-11-17 17:07:03] ::    ERROR @ logging_con.py:100 :: __main__ :: A Major error has happened.
+[2021-11-17 17:07:03] :: CRITICAL @ logging_con.py:101 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:07:22] ::  WARNING @ logging_con.py:98 :: __main__ :: Something is not right.
+[2021-11-17 17:07:22] ::    ERROR @ logging_con.py:99 :: __main__ :: A Major error has happened.
+[2021-11-17 17:07:22] :: CRITICAL @ logging_con.py:100 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:16:25] ::  WARNING @ logging_con.py:97 :: __main__ :: Something is not right.
+[2021-11-17 17:16:25] ::    ERROR @ logging_con.py:98 :: __main__ :: A Major error has happened.
+[2021-11-17 17:16:25] :: CRITICAL @ logging_con.py:99 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:16:37] ::  WARNING @ logging_con.py:97 :: __main__ :: Something is not right.
+[2021-11-17 17:16:37] ::    ERROR @ logging_con.py:98 :: __main__ :: A Major error has happened.
+[2021-11-17 17:16:37] :: CRITICAL @ logging_con.py:99 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:16:46] ::  WARNING @ logging_con.py:97 :: __main__ :: Something is not right.
+[2021-11-17 17:16:46] ::    ERROR @ logging_con.py:98 :: __main__ :: A Major error has happened.
+[2021-11-17 17:16:46] :: CRITICAL @ logging_con.py:99 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:19:26] ::  WARNING @ logging_con.py:97 :: __main__ :: Something is not right.
+[2021-11-17 17:19:26] ::    ERROR @ logging_con.py:98 :: __main__ :: A Major error has happened.
+[2021-11-17 17:19:26] :: CRITICAL @ logging_con.py:99 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:22:28] ::  WARNING @ logging_con.py:97 :: __main__ :: Something is not right.
+[2021-11-17 17:22:28] ::    ERROR @ logging_con.py:98 :: __main__ :: A Major error has happened.
+[2021-11-17 17:22:28] :: CRITICAL @ logging_con.py:99 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:22:39] ::  WARNING @ logging_con.py:97 :: __main__ :: Something is not right.
+[2021-11-17 17:22:39] ::    ERROR @ logging_con.py:98 :: __main__ :: A Major error has happened.
+[2021-11-17 17:22:39] :: CRITICAL @ logging_con.py:99 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:22:47] ::  WARNING @ logging_con.py:97 :: __main__ :: Something is not right.
+[2021-11-17 17:22:47] ::    ERROR @ logging_con.py:98 :: __main__ :: A Major error has happened.
+[2021-11-17 17:22:47] :: CRITICAL @ logging_con.py:99 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:23:37] ::  WARNING @ logging_con.py:97 :: __main__ :: Something is not right.
+[2021-11-17 17:23:37] ::    ERROR @ logging_con.py:98 :: __main__ :: A Major error has happened.
+[2021-11-17 17:23:37] :: CRITICAL @ logging_con.py:99 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:25:42] ::  WARNING @ logging_con.py:97 :: __main__ :: Something is not right.
+[2021-11-17 17:25:42] ::    ERROR @ logging_con.py:98 :: __main__ :: A Major error has happened.
+[2021-11-17 17:25:42] :: CRITICAL @ logging_con.py:99 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:29:42] ::  WARNING @ logging_con.py:97 :: __main__ :: Something is not right.
+[2021-11-17 17:29:42] ::    ERROR @ logging_con.py:98 :: __main__ :: A Major error has happened.
+[2021-11-17 17:29:42] :: CRITICAL @ logging_con.py:99 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:30:35] ::  WARNING @ logging_con.py:97 :: __main__ :: Something is not right.
+[2021-11-17 17:30:35] ::    ERROR @ logging_con.py:98 :: __main__ :: A Major error has happened.
+[2021-11-17 17:30:35] :: CRITICAL @ logging_con.py:99 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:31:19] ::  WARNING @ logging_con.py:97 :: __main__ :: Something is not right.
+[2021-11-17 17:31:19] ::    ERROR @ logging_con.py:98 :: __main__ :: A Major error has happened.
+[2021-11-17 17:31:19] :: CRITICAL @ logging_con.py:99 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:36:26] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:36:26] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:36:26] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:36:33] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:36:33] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:36:33] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:38:27] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:38:27] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:38:27] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:39:02] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:39:02] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:39:02] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:39:08] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:39:08] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:39:08] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:39:08] ::    ERROR @ logging_con.py:104 :: __main__ :: This will not print as handlers in main are cleared
+
+[2021-11-17 17:39:19] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:39:19] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:39:19] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:39:42] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:39:42] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:39:42] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:39:52] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:39:52] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:39:52] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:40:32] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:40:32] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:40:32] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:40:41] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:40:41] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:40:41] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:40:47] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:40:47] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:40:47] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:41:33] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:41:33] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:41:33] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:42:44] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:42:44] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:42:44] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:42:44] ::    ERROR @ logging_con.py:105 :: __main__ :: This will not print as handlers in main are cleared
+
+[2021-11-17 17:43:55] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:43:55] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:43:55] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:45:36] ::  WARNING @ logging_con.py:91 :: op :: Something is not right.
+[2021-11-17 17:45:36] ::    ERROR @ logging_con.py:92 :: op :: A Major error has happened.
+[2021-11-17 17:45:36] :: CRITICAL @ logging_con.py:93 :: op :: This is a critical logging message
+
+[2021-11-17 17:51:33] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:51:33] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:51:33] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:52:01] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:52:01] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:52:01] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:54:02] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:54:02] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:54:02] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 17:55:40] ::  WARNING @ logging_con.py:90 :: __main__ :: Something is not right.
+[2021-11-17 17:55:40] ::    ERROR @ logging_con.py:91 :: __main__ :: A Major error has happened.
+[2021-11-17 17:55:40] :: CRITICAL @ logging_con.py:92 :: __main__ :: This is a critical logging message
+
+[2021-11-17 21:45:07] ::  WARNING @ logging_con.py:88 :: __main__ :: Something is not right.
+[2021-11-17 21:45:07] ::    ERROR @ logging_con.py:89 :: __main__ :: A Major error has happened.
+[2021-11-17 21:45:07] :: CRITICAL @ logging_con.py:90 :: __main__ :: This is a critical logging message
+
+[2021-11-17 21:45:28] ::  WARNING @ logging_con.py:88 :: __main__ :: Something is not right.
+[2021-11-17 21:45:28] ::    ERROR @ logging_con.py:89 :: __main__ :: A Major error has happened.
+[2021-11-17 21:45:28] :: CRITICAL @ logging_con.py:90 :: __main__ :: This is a critical logging message
+
+[2021-11-17 21:45:58] ::  WARNING @ logging_con.py:88 :: __main__ :: Something is not right.
+[2021-11-17 21:45:58] ::    ERROR @ logging_con.py:89 :: __main__ :: A Major error has happened.
+[2021-11-17 21:45:58] :: CRITICAL @ logging_con.py:90 :: __main__ :: This is a critical logging message
+
+[2021-11-17 21:46:10] ::  WARNING @ logging_con.py:88 :: __main__ :: Something is not right.
+[2021-11-17 21:46:10] ::    ERROR @ logging_con.py:89 :: __main__ :: A Major error has happened.
+[2021-11-17 21:46:10] :: CRITICAL @ logging_con.py:90 :: __main__ :: This is a critical logging message
+
+[2021-11-17 21:46:21] ::  WARNING @ logging_con.py:88 :: __main__ :: Something is not right.
+[2021-11-17 21:46:21] ::    ERROR @ logging_con.py:89 :: __main__ :: A Major error has happened.
+[2021-11-17 21:46:21] :: CRITICAL @ logging_con.py:90 :: __main__ :: This is a critical logging message
+

@@ -1,0 +1,18 @@
+[2021-11-18 17:23:03] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 17:23:03] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 17:23:45] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 17:23:45] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-18 17:30:41] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-18 17:30:41] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-25 15:27:42] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-25 15:27:42] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-25 15:27:56] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-25 15:27:56] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
+[2021-11-25 15:28:24] ::    ERROR @ config_logging.py:15 :: fileLogger :: A Major error has happened.
+[2021-11-25 15:28:24] :: CRITICAL @ config_logging.py:16 :: fileLogger :: This is a critical logging message
+
